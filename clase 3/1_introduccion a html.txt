@@ -1,0 +1,21 @@
+¡Hola, queridos estudiantes! 👋📚
+
+Hoy vamos a embarcarnos en un emocionante viaje al mundo de la creación web a través de HTML, el lenguaje de marcado que forma la base de todas las páginas web que amamos y usamos todos los días. 🌐💻
+
+Imagina HTML como la base sólida de una casa impresionante 🏠. Es el cimiento sobre el que construimos todo lo demás. HTML, que significa "HyperText Markup Language" (Lenguaje de Marcado de Hipertexto), es como el esqueleto de una página web. 🦴
+
+✨ **¿Qué hace HTML?** ✨
+HTML te permite estructurar y organizar el contenido de tus páginas web. Es como darle orden y sentido a tus ideas, igual que si estuvieras escribiendo un ensayo o una historia. Con HTML, puedes crear títulos, párrafos, listas, imágenes y enlaces, ¡y eso es solo el comienzo! 📝🖼️🔗
+
+💼 **Elementos y Etiquetas HTML** 💼
+Piensa en HTML como un lenguaje de marcar cosas con etiquetas. Por ejemplo, para crear un título, usas la etiqueta `<h1>` seguida de tu texto, y para los párrafos, usas `<p>`. ¡Es así de simple! 🏷️
+
+🎨 **Dar estilo a tu contenido** 🎨
+Ahora, aquí viene la magia: aunque HTML se encarga de la estructura, necesitamos CSS para darle estilo y hacer que todo se vea genial. Es como elegir los colores, muebles y decoraciones de tu casa para que se sienta acogedora y única. 🎉🖌️
+
+🚀 **Listos para el futuro** 🚀
+HTML sigue evolucionando. Cada nueva versión trae consigo características emocionantes para crear experiencias web más interactivas y dinámicas. ¡Pero todo comienza con una comprensión sólida de los fundamentos! 💡🌟
+
+¡Así que adelante, aventureros digitales! HTML te dará el poder de dar vida a tus ideas en la web. 🌈💪 ¡Prepárense para explorar el emocionante mundo de la creación web a través del lenguaje HTML! 🌐🎈
+
+Siéntanse libres de hacer preguntas en cualquier momento. ¡Estoy aquí para ayudarles en esta emocionante travesía! 🙌🌍

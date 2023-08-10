@@ -1,0 +1,9 @@
+🏷️ **Etiqueta HTML: El Marcado Esencial** 🏷️
+Una etiqueta HTML es como una instrucción que le dice a un navegador web cómo mostrar tu contenido. Es como una etiqueta en la vida real, ¡solo que esta etiqueta es para las computadoras! Las etiquetas tienen forma de `<nombre>` y `</nombre>`, y todo lo que esté entre ellas se ve afectado por esa instrucción.
+
+🎩 **Atributos: Toques Especiales** 🎩
+Los atributos son información adicional que puedes darle a una etiqueta para personalizar su comportamiento o apariencia. Los atributos se agregan a una etiqueta utilizando la forma `nombre="valor"`. Por ejemplo, en la etiqueta `<a>`, el atributo `href` define la dirección web a la que el enlace llevará a los usuarios.
+
+En resumen, **las etiquetas HTML** son como las instrucciones para decirle al navegador cómo mostrar tu contenido en la página web. **Los atributos** son los detalles especiales que puedes agregar a estas etiquetas para darles un toque personalizado.
+
+¡Con estas herramientas, podrás crear páginas web sorprendentes y únicas!
